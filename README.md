@@ -1,14 +1,14 @@
-# Code Lab theme
+# NextJS base app
 
-This created from React and TypeScript
+This app created from NextJS
 
 Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cunguyen.dev@gmail.com)&gt;
 
 ## Requirements
 
-- [Node](https://nodejs.org/en/) &gt;=8.4.0 / [npm](https://www.npmjs.com/) &gt;=5.3.0
+- [Node](https://nodejs.org/en/) &gt;=15.14.0 / [npm](https://www.npmjs.com/) &gt;=7.7.6
   - Recommend installing with [nvm](https://github.com/creationix/nvm)
-- [Yarn](https://classic.yarnpkg.com) &gt;=1.22.4(Optional)
+- [Yarn](https://classic.yarnpkg.com) &gt;=1.22.5(Optional)
 
 ## Getting Started
 
