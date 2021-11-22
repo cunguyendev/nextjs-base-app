@@ -2,9 +2,7 @@
 
 This created from React and TypeScript
 
-Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cnguyen.dev@gmail.com)&gt;
-
-Deploy to Netlify: [https://codelab-react-typescript.netlify.app/](https://codelab-react-typescript.netlify.app/)
+Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cunguyen.dev@gmail.com)&gt;
 
 ## Requirements
 
@@ -27,10 +25,10 @@ npm/yarn install
 ### Run server
 
 ```
-npm/yarn start
+npm/yarn dev
 ```
 
-Open on web: http://localhost:3000 (this is by default, you can custom it)
+Open on web: http://localhost:5000 (this port fixed by me, you can custom it)
 
 ### Build
 
