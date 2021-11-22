@@ -4,6 +4,8 @@ This app created from NextJS
 
 Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cunguyen.dev@gmail.com)&gt;
 
+Deployed to Vercel: https://nextjs-base-app.vercel.app/
+
 ## Requirements
 
 - [Node](https://nodejs.org/en/) &gt;=15.14.0 / [npm](https://www.npmjs.com/) &gt;=7.7.6
